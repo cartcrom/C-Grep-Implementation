@@ -7,4 +7,4 @@ gcc myGrep.c wordList.c wordList.h
 * `Flags used during development: -Wall -Werror -ansi -pedantic`
 
 ### How to Run:
-./a.out <word> <filename>
+`./a.out <word> <filename>`
