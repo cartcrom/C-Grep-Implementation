@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "wordList2.h"
+#include "wordList.h"
 #include "string.h"
 
 /**
